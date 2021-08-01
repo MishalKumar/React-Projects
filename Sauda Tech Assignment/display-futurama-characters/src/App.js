@@ -1,3 +1,7 @@
+/*Task 6: API
+Display a list of Futurama characters on a web page from the following API: https://api.sampleapis.com/futurama/characters*/ 
+
+
 import React from 'react';
 
 import './App.css';
